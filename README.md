@@ -1,0 +1,2 @@
+# Automatic-door-opener
+Living in a hostel can be hard sometimes but none of the struggles compared to when my roommate and I had to bear the brutal mettalic sound of the latch being slapped into the door when we were sleeping. This is a project to solve the problem of having to get up from the cozy bed and walk on the cold floor to reach the door every time this happened when we were asleep. In this project I would make a circuit which is activated by a sound high enough to register and can also be activated by a remote controller.
